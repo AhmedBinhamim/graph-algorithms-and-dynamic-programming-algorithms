@@ -22,9 +22,16 @@ programming algorithm to find out the optimum set of planets to visit to collect
 provided a given maximum capacity. 
 
 Besides the main programs, few classes we implemented to
-represent the planet, edge, adjacency matrix, adjacency list and priority queue. The planet class
-represent a planet and stores planet information. The edge class represent an edge and stores
-edge information. The adjacency matrix class represent the actual implementation of graph in
-memory by using adjacency matrix. The adjacency list class represent the actual implementation of
-graph in memory by using adjacency list. The priority queue class is used to make a min heap
-priority queue to be utilised by Kruskal’s algorithm in program 3
+represent the planet, edge, adjacency matrix, adjacency list and priority queue. 
+
+  -The planet class represent a planet and stores planet information. The edge class represent an edge and stores
+   edge information. 
+
+  -The adjacency matrix class represent the actual implementation of graph in
+   memory by using adjacency matrix. 
+
+  -The adjacency list class represent the actual implementation of
+   graph in memory by using adjacency list. 
+
+  -The priority queue class is used to make a min heap
+   priority queue to be utilised by Kruskal’s algorithm in program 3
