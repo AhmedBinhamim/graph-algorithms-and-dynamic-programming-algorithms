@@ -1,5 +1,5 @@
 # graph-algorithms-and-dynamic-programming-algorithms
-The intent of this assignment is to implement 4 programs to demonstrate important graph algorithms and dynamic programming algorithms and process a given map of planets using these algorithms
+The intent of this project is to implement 4 programs to demonstrate important graph algorithms and dynamic programming algorithms and process a given map of planets using these algorithms
 
 The given map (the graph) has connections (edges) between planets and each planet
 (vertex) has its own coordinates, weight and profit.
